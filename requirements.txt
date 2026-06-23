@@ -2,4 +2,4 @@ biopython
 gradio
 pandas
 numpy
-openpyxl
+fpdf
