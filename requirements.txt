@@ -1,0 +1,5 @@
+biopython
+gradio
+pandas
+numpy
+openpyxl
